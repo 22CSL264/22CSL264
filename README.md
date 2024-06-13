@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-22CSL264/22CSL264 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+snehithsk/snehithsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
